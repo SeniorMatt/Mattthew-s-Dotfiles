@@ -33,6 +33,13 @@ Here some packages that i'm using:
 - **bibata-modern-classic** - cursor theme
 - **adw-gtk3-dark** - gtk3 theme
 
+## Terminal stuff
+- **neofetch** - am i need to explain ?
+- **cmatrix** - cool matrix effect
+- **cava** - cool audio visualizer
+- **pipes.sh** - cool pipes
+- **asciiquarium** - cool underwater world
+- **sl** - train. just train.
 
 # Preview
 ![image](https://github.com/user-attachments/assets/18e38231-4461-4f00-a6cd-78b997f86079)
