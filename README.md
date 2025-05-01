@@ -1,2 +1,2 @@
 # Mattthew-s-Dotfiles
-My dotfiles :D
+My personal dotfiles :D
