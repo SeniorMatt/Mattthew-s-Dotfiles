@@ -4,8 +4,7 @@ My personal dotfiles for Hyprland + Arch Linux :D
 U can see the preivew here - https://www.reddit.com/r/unixporn/comments/1kbl5fb/hyprland_i_think_i_might_finished_my_first/
 
 # Support the Author
-I would be really pleasured and happy
-                    buymeacoffee.com/matthewprah                
+I would be really pleasured and happy - buymeacoffee.com/seniormatthew
 # Packages in usage
 Here some packages that i'm using:
 ## Packages
