@@ -14,6 +14,7 @@ Here some packages that im usings on Arch Linux:
 - **hyrpsunset** - blue light filter
 - **hyprlock** - lockscreen
 - **wlogout** - logout menu
+- **nwg-look** - simple gtk theme changer
 
 ## Useful utilities
 - **nautilus** - filemanager
