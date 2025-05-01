@@ -16,6 +16,7 @@ Here some packages that i'm using:
 - **hyrpsunset** - blue light filter
 - **hyprlock** - lockscreen
 - **wlogout** - logout menu
+- **pywal** - color generator
 - **nwg-look** - simple gtk theme changer
 
 ## Useful utilities
