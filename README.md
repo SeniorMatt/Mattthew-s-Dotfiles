@@ -25,3 +25,7 @@ Here some packages that i'm using:
 - **nm-applet** - gui wifi manager
 - **obsidian** - notes app
 - **nvim** with **lazyvim** - code editor, and with the help by lazyvim almost full IDE
+
+
+# Preview
+`![image](https://github.com/user-attachments/assets/18e38231-4461-4f00-a6cd-78b997f86079)
