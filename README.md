@@ -26,6 +26,7 @@ Here some packages that i'm using:
 - **evince** - document viewer
 - **decibels** - mp3 player
 - **blueberry** - gui bluetooth manager
+- **pavucontrol** - audio manager
 - **nm-applet** - gui wifi manager
 - **obsidian** - notes app
 - **nvim** with **lazyvim** - code editor, and with the help by lazyvim almost full IDE
