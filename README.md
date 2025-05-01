@@ -1,8 +1,8 @@
 # Mattthew-s-Dotfiles
-My personal dotfiles :D
+My personal dotfiles for Hyprland + Arch Linux :D
 
 # Packages in usage
-Here some packages that im usings on Arch Linux:
+Here some packages that i'm using:
 ## Packages
 - **hyprland** - window manager
 - **kitty** - terminal
