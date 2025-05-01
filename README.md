@@ -7,6 +7,7 @@ U can see the preivew here - https://www.reddit.com/r/unixporn/comments/1kbl5fb/
 Here some packages that i'm using:
 ## Packages
 - **hyprland** - window manager
+- **ly** - simple login manager
 - **kitty** - terminal
 - **waybar** - status bar
 - **rofi**, **rofi-calc**, **rofi-emoji** - app launcher
