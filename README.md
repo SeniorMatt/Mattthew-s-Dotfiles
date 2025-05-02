@@ -48,9 +48,11 @@ Here some packages that i'm using:
 # How to install them
 Copy the dotfiles and place them in to your $HOME folder.
 Also u need to manually replace the paths in:
+```
 ~/.config/waybar/style.css
 ~/.config/wlogout/style.css
 ~/.config/rofi/config.rasi
+```
 Just open them and replace the path with your username rather than mine
 Also i might recommend u to check our the ~/.config/hypr/categories/ folder and customize everything for ur needs, like monitor setup, keybindings, autostart applications and etc. 
 
