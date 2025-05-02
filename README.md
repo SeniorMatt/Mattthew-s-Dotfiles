@@ -50,7 +50,11 @@ Copy the dotfiles and place them in to your $HOME folder.
 Also u need to manually replace the paths in:
 ```
 ~/.config/waybar/style.css
+```
+```
 ~/.config/wlogout/style.css
+```
+```
 ~/.config/rofi/config.rasi
 ```
 Just open them and replace the path with your username rather than mine
