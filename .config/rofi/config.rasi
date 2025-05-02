@@ -1,4 +1,5 @@
 @import "/home/mat/.cache/wal/colors-rofi-dark.rasi"
+/* Replace the path with your USERNAME */
 
 * {
     font:   "JetBrainsMono 14";

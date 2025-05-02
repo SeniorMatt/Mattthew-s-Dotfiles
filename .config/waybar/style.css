@@ -1,7 +1,7 @@
 @import "/home/mat/.cache/wal/colors-waybar.css";
+/* Replace the path with your USERNAME */
 
 * {
-    /* font-family: JetBrainsMono, otf-font-awesome; */
     font-family: JetBrainsMono, awesome-terminal-fonts;
     font-size: 20px;
     transition-duration: .5s;

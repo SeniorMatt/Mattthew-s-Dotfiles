@@ -214,6 +214,7 @@
       "tooltip": true,
       "format-icons": {
         "default": "󰣇",
-      }
+      },
+		  "on-click": "rofi -show drun"
     }
 }
