@@ -46,7 +46,7 @@ Here some packages that i'm using:
 - **sl** - train. just train.
 
 # How to install them
-Copy the dotfiles and place them in to your **$HOME** folder.
+Copy the dotfiles and place them in to your **$HOME** folder. If u want to be sure, u can install all of the packages that i'm using.
 Also u need to manually replace the paths in:
 ```
 ~/.config/waybar/style.css
