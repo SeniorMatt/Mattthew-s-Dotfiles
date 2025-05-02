@@ -12,14 +12,14 @@ Here some packages that i'm using:
 - **ly** - simple login manager
 - **kitty** - terminal
 - **waybar** - status bar
-- **rofi**, **rofi-calc**, **rofi-emoji** - app launcher
+- **rofi-lbonn-wayland-git**, **rofi-calc**, **rofi-emoji** - app launcher
 - **waypaper** - frontend wallpaper manager
 - **swaync** - notifications
 - **hyprpaper** - backend wallpaper engine
 - **hyrpsunset** - blue light filter
 - **hyprlock** - lockscreen
 - **wlogout** - logout menu
-- **pywal16** - color generator
+- **python-pywal16** - color generator
 - **nwg-look** - simple gtk theme changer
 
 ## Useful utilities
@@ -29,13 +29,13 @@ Here some packages that i'm using:
 - **decibels** - mp3 player
 - **blueberry** - gui bluetooth manager
 - **pavucontrol** - audio manager
-- **nm-applet** - gui wifi manager
+- **network-manager-applet** - gui wifi manager
 - **obsidian** - notes app
 - **nvim** with **lazyvim** - code editor, and with the help by lazyvim almost full IDE
 
 ## Themes
-- **bibata-modern-classic** - cursor theme
-- **adw-gtk3-dark** - gtk3 theme
+- **bibata-cursor-theme** - cursor theme
+- **adw-gtk-theme** - gtk3 theme
 
 ## Terminal stuff
 - **neofetch** - am i need to explain ?
@@ -44,6 +44,7 @@ Here some packages that i'm using:
 - **pipes.sh** - cool pipes
 - **asciiquarium** - cool underwater world
 - **sl** - train. just train.
+- **lolcat** - makes terminal commands rainbow
 
 # How to install them
 Copy the dotfiles and place them in to your **$HOME** folder. If u want to be sure, u can install all of the packages that i'm using (Run the **install_packages.sh** script).
