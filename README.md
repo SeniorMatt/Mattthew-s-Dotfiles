@@ -57,7 +57,8 @@ Also u need to manually replace the paths in:
 ```
 ~/.config/rofi/config.rasi
 ```
-Just open them and replace the path with your username rather than mine
+Just open them and replace the path with your username rather than mine.
+
 Also i might recommend u to check our the ~/.config/hypr/categories/ folder and customize everything for ur needs, like monitor setup, keybindings, autostart applications and etc. 
 
 # Preview
