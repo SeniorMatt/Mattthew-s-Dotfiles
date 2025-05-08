@@ -16,11 +16,11 @@ button {
     margin: 10px;
     border-radius: 12px;
     background-color: @background;
-    border: 2px solid @color4;
+    border: 4px solid @color3;
     color: @foreground;
 }
 
 button:focus, button:active, button:hover {
-	background-color: @color4;
+	background-color: @color9;
 	outline-style: none;
 }

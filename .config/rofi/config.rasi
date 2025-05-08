@@ -8,13 +8,13 @@
     spacing:    0px;
 }
 
-configuration {
-    show-icons: false;
+configuration { show-icons: false;
     kb-row-up: "Up,Control+k,Shift+Tab,Shift+ISO_Left_Tab";
     kb-row-down: "Down,Control+j";
-    kb-accept-entry: "Control+m,Return,KP_Enter";
+    kb-accept-entry: "Return,KP_Enter";
     kb-remove-to-eol: "Control+Shift+e";
-    kb-mode-previous: "Shift+Left,Control+Shift+Tab,Control+h";
+    kb-mode-previous: "Alt+h";
+    kb-mode-next: "Alt+l";
     kb-remove-char-back: "BackSpace";
 }
 
@@ -23,7 +23,7 @@ window {
     y-offset:       calc(50% - 176px);
     width:          480;
     border-radius:  12px;
-    border:   @color8;
+    border: @color8;
     border: 4px;
 }
 
@@ -61,7 +61,7 @@ listview {
     lines:      8;
     columns:    1;
 
-    fixed-height: false;
+    fixed-height: true;
 }
 
 element {
@@ -77,6 +77,7 @@ element alternate active {
 }
 
 element selected normal, element selected active {
+    background-color: @urgent-background;
 }
 
 element-icon {
