@@ -2,7 +2,6 @@
 /* Replace the path with your USERNAME */
 
 * {
-    /* font-family: JetBrainsMono, awesome-terminal-fonts; */
     font-family: JetBrainsMono, otf-font-awesome;
     font-size: 18px;
     transition-duration: .5s;
@@ -11,8 +10,7 @@
 }
 
 window#waybar {
-    border-radius: 8px;
-    border: 2px solid @color4;
+    border-radius: 12px;
     background-color: @background;
     transition-duration: .5s;
     transition-property: background-color;
@@ -78,6 +76,21 @@ button:hover {
     color: @color0;
 }
 
+#cpu {
+    background-color: @color9;
+    color: @color0;
+}
+
+#temperature {
+    background-color: @color6;
+    color: @color0;
+}
+
+#memory {
+    background-color: @color9;
+    color: @color0;
+}
+
 #clock:hover,
 #battery:hover,
 #disk:hover,
@@ -95,7 +108,7 @@ button:hover {
 #custom-wifi:hover,
 #custom-bluetooth:hover,
 #mpd:hover {
-  background-color: @color2;
+  background-color: @color8;
   border-radius: 8px;
 }
 
@@ -119,7 +132,7 @@ button:hover {
 }
 
 #workspaces button:hover {
-    background-color: @color3;
+    background-color: @color9;
 }
 
 #workspaces button.focused {
@@ -127,7 +140,7 @@ button:hover {
 }
 
 #workspaces button.active {
-    background-color: @color4;
+    background-color: @color9;
     color: @color0;
 }
 

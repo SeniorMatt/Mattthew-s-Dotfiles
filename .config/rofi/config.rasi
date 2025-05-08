@@ -8,7 +8,8 @@
     spacing:    0px;
 }
 
-configuration { show-icons: false;
+configuration {
+    show-icons: false;
     kb-row-up: "Up,Control+k,Shift+Tab,Shift+ISO_Left_Tab";
     kb-row-down: "Down,Control+j";
     kb-accept-entry: "Return,KP_Enter";

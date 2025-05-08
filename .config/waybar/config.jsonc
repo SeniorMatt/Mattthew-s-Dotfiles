@@ -17,8 +17,8 @@
     ],
     "modules-center": [
         "cpu",
-        "memory",
-        "temperature"
+        "temperature",
+        "memory"
     ],
     "modules-right": [
         "tray",
