@@ -62,6 +62,7 @@ Also u need to manually replace the paths in:
 Just open them and replace the path with your **username** rather than mine.
 
 Also i might recommend u to check our the **~/.config/hypr/categories/** folder and customize everything for ur needs, like monitor setup, keybindings, autostart applications and etc. 
+After u done all of that, u need to reload the pywal using the command wal -i "PathToYourWallpaper"
 
 # Preview
 ![image](https://github.com/user-attachments/assets/18e38231-4461-4f00-a6cd-78b997f86079)
