@@ -13,10 +13,10 @@ button {
     font-size: 32px;
     background-size: 25%;
     padding-bottom: 125px;
-    margin: 10px;
-    border-radius: 12px;
+    margin: 8px;
+    border-radius: 10px;
     background-color: @background;
-    border: 4px solid @color3;
+    border: 2px solid @color3;
     color: @foreground;
 }
 

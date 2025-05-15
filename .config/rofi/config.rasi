@@ -9,13 +9,15 @@
 }
 
 configuration {
-    show-icons: false;
+    modi: "drun,run,window,emoji,calc";
+    show-icons: true;
     kb-row-up: "Up,Control+k,Shift+Tab,Shift+ISO_Left_Tab";
     kb-row-down: "Down,Control+j";
     kb-accept-entry: "Return,KP_Enter";
     kb-remove-to-eol: "Control+Shift+e";
-    kb-mode-previous: "Alt+h";
-    kb-mode-next: "Alt+l";
+    kb-mode-previous: "Control+h";
+    kb-mode-complete: "Control+i";
+    kb-mode-next: "Control+l";
     kb-remove-char-back: "BackSpace";
 }
 
@@ -38,10 +40,11 @@ inputbar {
 
     padding:    8px 16px;
     spacing:    8px;
-    children:   [ entry ];
+    children:   [ "prompt", "textbox-prompt-colon", "entry" ];
 }
 
 prompt {
+    enabled:                     true;
 }
 
 entry {
