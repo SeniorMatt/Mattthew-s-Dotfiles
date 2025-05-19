@@ -1,5 +1,4 @@
 @import "/home/mat/.cache/wal/colors-waybar.css";
-/* Replace the path with your USERNAME */
 
 * {
     font-family: JetBrainsMono, otf-font-awesome;
@@ -7,11 +6,10 @@
     transition-duration: .5s;
     transition-property: background-color;
     padding: 2px 4px;
-    /* border: 2px solid rgba(0, 0, 0, 1); */
 }
 
 window#waybar {
-    border-radius: 10px;
+    border-radius: 8px;
     background-color: @background;
     transition-duration: .5s;
     transition-property: background-color;
@@ -63,7 +61,7 @@ button:hover {
     margin: 4px 0px;
     padding: 2px 4px;
     color: @foreground;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 #temperature,
@@ -72,10 +70,11 @@ button:hover {
 #clock {
     margin: 4px 0px;
     padding: 2px 4px;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 #clock {
+    font-weight: bold;
     background-color: @color9;
     color: @color0;
 }
@@ -113,7 +112,7 @@ button:hover {
 #custom-bluetooth:hover,
 #mpd:hover {
   background-color: @color8;
-  border-radius: 10px;
+  border-radius: 8px;
 }
 
 #window {
@@ -127,16 +126,16 @@ button:hover {
     margin: 4px 0px;
     color: @foreground;
     background: @color1;
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 #workspaces button {
     padding: 0 2px;
-    border-radius: 10px;
+    border-radius: 6px;
 }
 
 #workspaces button:hover {
-    background-color: @color9;
+    background-color: @color14;
 }
 
 #workspaces button.focused {
@@ -144,7 +143,7 @@ button:hover {
 }
 
 #workspaces button.active {
-    background-color: @color9;
+    background-color: @color10;
     color: @color0;
 }
 
@@ -169,8 +168,8 @@ button:hover {
 
 @keyframes blink {
     to {
-        background-color: #ffffff;
-        color: #000000;
+        background-color: @color15;
+        color: @color13;
     }
 }
 
@@ -194,6 +193,7 @@ label:focus {
 }
 
 #pulseaudio.muted {
+    font-weight: bold;
     background-color: @color1;
     color: rgba(0, 0, 0, 1);
 }

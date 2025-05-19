@@ -220,6 +220,6 @@
       "format-icons": {
         "default": "󰣇",
       },
-		  "on-click": "rofi -show drun"
+		  "on-click": "kitty --hold bash -c neofetch"
     }
 }

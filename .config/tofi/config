@@ -1,0 +1,10 @@
+include = /home/mat/.cache/wal/colors-tofi
+
+width = 50%
+height = 50%
+border-width = 8
+corner-radius = 8
+outline-width = 0
+result-spacing = 25
+num-results = 7
+font = JetBrains Mono
